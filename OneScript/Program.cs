@@ -13,7 +13,7 @@ namespace OneScript
         static void Main(string[] args)
         {
             Console.WriteLine("OneScript APP");
-            Console.WriteLine("--------------");
+            Console.WriteLine("-------------");
             XmlDocument xmlDoc = new XmlDocument();
             StringBuilder script = new StringBuilder();
             string filename = @"C:\Media\my.txt";
